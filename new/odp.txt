@@ -1,0 +1,12 @@
+ZADANIE 1
+
+Get:
+wady - dane wysyłane metodą GET dołączane są do adresu URL i przesyłanie w ten sposób danych jest uważane za niebezpieczne
+- dane wysyłane metodą GET mają określoną długość url.
+zalety - łatwe korzystanie, możliwość testu kodu.
+
+Post:
+wady - bardziej skomplikopwany od get
+zalety - Presyłanych danych nie widać w adresie i użytkownik też ich nie zobaczy. Dlatego ten sposób przesyłania danych stosowany jest do haseł, przy autoryzacji, czy przesyłaniu innych danych, które nie powinny zostać ujawnione w prosty sposób lub zapisane do logów systemowych serwera, a co za tym idzie, ten sposób jest o wiele bezpieczniejszy od metody get
+
+ZADANIE 2
